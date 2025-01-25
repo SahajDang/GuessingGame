@@ -43,10 +43,6 @@ The **Guessing Game** is a simple Java-based console game where the player attem
    
    >java GuessingGame
 
-## 📌 Example Output
-
-![image](https://github.com/user-attachments/assets/904fa05a-7418-42cd-a603-eb4dd8b33816)
-
 ## 🔮 Future Improvements
 - 🎛️ Allow users to set a custom range for the random number.
 
