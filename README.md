@@ -43,6 +43,11 @@ The **Guessing Game** is a simple Java-based console game where the player attem
    
    >java GuessingGame
 
+## 🔧 Prerequisites
+
+- Java 8 or above
+- A terminal or command prompt
+
 ## 🔮 Future Improvements
 - 🎛️ Allow users to set a custom range for the random number.
 
@@ -51,6 +56,10 @@ The **Guessing Game** is a simple Java-based console game where the player attem
 - 🎚️ Add a difficulty level selection.
 
 - 🎨 Improve user experience with better prompts and UI.
+
+## 🤝 Contributing
+
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 ## 📜 License
 
